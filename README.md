@@ -21,4 +21,10 @@
  <a href="https://discord.gg/mercia_souza" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mell.souza87@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/mércia-souza-311266231" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
+  ![Snake animation](https://github.com/Mercia1987/Mercia1987/blob/output/github-contribution-grid-snake.svg)
 </div>
+
+
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=Mercia1987&repo=Mercia1987&theme=react)](https://github.com/Mercia1987/Mercia1987)
+
